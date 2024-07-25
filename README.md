@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+Hi everybody! I'm Jerson Zúñiga, a software engineer who loves to code, teach, and learn something new every day. 🤠
 
 <!--
 **jersonzc/jersonzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
